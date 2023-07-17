@@ -3,4 +3,4 @@ Project simulates money transfer in a bank. It has a web interface that belongs 
 
 # Build & Deploy
 - Use username and pin: "JS - 1111" or "JD - 2222" to test
-- Link: 
+- Link: https://bankist-trg.netlify.app/
