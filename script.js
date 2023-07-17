@@ -398,7 +398,7 @@ function handleSort(){
 // timmer
 
 function handleTimer(){
-  var minutes = 2;
+  var minutes = 5;
   var seconds = 0;
 
   var timmerId = setInterval(() => {
